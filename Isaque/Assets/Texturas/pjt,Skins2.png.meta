@@ -1,0 +1,1366 @@
+fileFormatVersion: 2
+guid: 68804d33bc1661e4a9bb62f54913ee15
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pjt,Skins2_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1088
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44abf1b25323a74fb1c47b9ec1ec272
+      internalID: -878813587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1092
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb99b4a7b88b80145b925c911d5bba45
+      internalID: 67059544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1088
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7788a15fbab619247bc0c4fff11a1820
+      internalID: 1107828404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1092
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57c3bce5478cbc4e9a304c879bc095c
+      internalID: -517268213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1092
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9575e0e9b8ef9e347a8d344340e6648d
+      internalID: 984553945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1092
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c58a0515c8cab84ab8eb2e8559aa4db
+      internalID: -1177504999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_6
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1088
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf40e72cbe46154aae046c0d3e03165
+      internalID: 1535144972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_7
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1092
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c6ccf55aa83c40a30bce34a5ded52
+      internalID: 483732426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 896
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a22ff6fe9ac341a6e3bcf40228b88
+      internalID: 1500183360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 896
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80da9e2147fb8514c8fe33cda03bfc2c
+      internalID: -576100758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 896
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6014e3a630b8134bbeb5ba7de44fd36
+      internalID: 980406405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 896
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a890fa7ecc46543b96c2aeee3763bc
+      internalID: -272019379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 896
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2a261c33ae8dd4a946091610f1269a
+      internalID: 860070566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_13
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 896
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36bd0d7aca5c4d469cd74a4aadfd442
+      internalID: 2074628797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_14
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 900
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfca3e6144766e44956f04d1adc8f62
+      internalID: 703914664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_15
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 904
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad30080fd4da8243a19328263fcc930
+      internalID: 1067691524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 648
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7ecba67a4758d4aa4cb5008a11733b
+      internalID: -1337272105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 648
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7ff9979c6d63c4d9542c385de70727
+      internalID: -1537372005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 652
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acaac40353ba9e4ebab4ced6dd96efb
+      internalID: -2077837070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 652
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec02cf48dfda320419a895227ea08b93
+      internalID: 1205983073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_20
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 652
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f582daa0975514986e528577ba20c8
+      internalID: 643868386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_21
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 652
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d98d83ccbd456d42a407757bf56c2af
+      internalID: -290066382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_22
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 652
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a64846ca3778d419e96dfa474b964d
+      internalID: -763676298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_23
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 652
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe795c9a144d684f93e1e32a1585647
+      internalID: -1750564751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_24
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 652
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f6f472cbb23d847ad9f08744eb69c8
+      internalID: -550081706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_25
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 652
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b93ea6d4924d0342b1f58aa2a729c1b
+      internalID: -1826328753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 456
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340224c6199043441a7c9b4c9751739e
+      internalID: 943970090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 456
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869bc6c4eacc76443907d84bd8d8c6d2
+      internalID: 939667732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 456
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e0230c0a019664d8d7b001af253292
+      internalID: 1511657000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 456
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbedfad6051fff4597ea73bfe93e5bf
+      internalID: 663738777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_30
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 456
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f151a9dc854974b87b90138feffb07
+      internalID: -1065094567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_31
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 456
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4424d80f4c50d594ea0d239f88e73a4e
+      internalID: 186612046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 456
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e46c07f19c094458544dca91c7b8ec
+      internalID: -655497485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_33
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 456
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e929252b9a9b8db458f0fc414142222b
+      internalID: 1788365498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_34
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 452
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6230ae9bfd608c64d9e46ddd91b6554c
+      internalID: -1043474439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_35
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 452
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2abff73e689ff242832ba68371a319f
+      internalID: 836051963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 248
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f10c7ffef6e33428bd83bdbfbe2e77
+      internalID: 1098545996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 248
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c110d6e84499ab4991b589dd6b62505
+      internalID: -1321405345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 248
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b42ec6aa4af8445b77c1574092a81b
+      internalID: 802407352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_39
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 248
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c10ac9d1f46584a81cffdbd1a8e8d7
+      internalID: -1423171154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_40
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 248
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798dfe83e960c5f45949fc6fea31fe01
+      internalID: 546118778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_41
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 248
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0b7b8ab619db241935c5552bf3761a
+      internalID: 627904801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_42
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 248
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd61cfbc398ef4aaa21464713ea8fe
+      internalID: 274229435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_43
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 248
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeba281fdc24b844b8d3c13e7b2e492
+      internalID: 16366835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_44
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 248
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30449888163af664584d378194f7a919
+      internalID: 635329222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_45
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 248
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0d1917e74f7b841aeb4b13d67042e8
+      internalID: -1378962614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 48
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302d560b37450fa45aacad5d84346b10
+      internalID: -1462418139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_47
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 48
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f6cb3145927e1419fae05e9c571295
+      internalID: -1797712505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70df519ebd44f4e448d88ae31fef0979
+      internalID: -2070367163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd08403e12b023c4a915e2ef8fb8be17
+      internalID: -1078808721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_50
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 48
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eaee1c0328c2d41aed494bb5dc90cf
+      internalID: -1299609766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 48
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea80f79046a29fd44a5d0a86e5885889
+      internalID: -799039608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_52
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 48
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aeceb7842ea054e8df8d30e7cec2c7
+      internalID: -161068689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_53
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 48
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca17b50e5d91fd4889a0605f2d2dd66
+      internalID: -1982406191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_54
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 48
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4067005f801c341858e9a99e5be92f
+      internalID: 815336582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjt,Skins2_55
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 48
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c825789eaa0074d80a6a8207c30ea0
+      internalID: 996130379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pjt,Skins2_29: 663738777
+      pjt,Skins2_41: 627904801
+      pjt,Skins2_53: -1982406191
+      pjt,Skins2_36: 1098545996
+      pjt,Skins2_24: -550081706
+      pjt,Skins2_14: 703914664
+      pjt,Skins2_2: 1107828404
+      pjt,Skins2_9: -576100758
+      pjt,Skins2_45: -1378962614
+      pjt,Skins2_49: -1078808721
+      pjt,Skins2_25: -1826328753
+      pjt,Skins2_30: -1065094567
+      pjt,Skins2_32: -655497485
+      pjt,Skins2_13: 2074628797
+      pjt,Skins2_44: 635329222
+      pjt,Skins2_28: 1511657000
+      pjt,Skins2_37: -1321405345
+      pjt,Skins2_8: 1500183360
+      pjt,Skins2_19: 1205983073
+      pjt,Skins2_48: -2070367163
+      pjt,Skins2_40: 546118778
+      pjt,Skins2_55: 996130379
+      pjt,Skins2_46: -1462418139
+      pjt,Skins2_34: -1043474439
+      pjt,Skins2_3: -517268213
+      pjt,Skins2_1: 67059544
+      pjt,Skins2_38: 802407352
+      pjt,Skins2_0: -878813587
+      pjt,Skins2_31: 186612046
+      pjt,Skins2_26: 943970090
+      pjt,Skins2_11: -272019379
+      pjt,Skins2_52: -161068689
+      pjt,Skins2_43: 16366835
+      pjt,Skins2_15: 1067691524
+      pjt,Skins2_10: 980406405
+      pjt,Skins2_4: 984553945
+      pjt,Skins2_18: -2077837070
+      pjt,Skins2_47: -1797712505
+      pjt,Skins2_33: 1788365498
+      pjt,Skins2_20: 643868386
+      pjt,Skins2_23: -1750564751
+      pjt,Skins2_7: 483732426
+      pjt,Skins2_22: -763676298
+      pjt,Skins2_39: -1423171154
+      pjt,Skins2_12: 860070566
+      pjt,Skins2_17: -1537372005
+      pjt,Skins2_50: -1299609766
+      pjt,Skins2_27: 939667732
+      pjt,Skins2_35: 836051963
+      pjt,Skins2_6: 1535144972
+      pjt,Skins2_51: -799039608
+      pjt,Skins2_5: -1177504999
+      pjt,Skins2_54: 815336582
+      pjt,Skins2_42: 274229435
+      pjt,Skins2_16: -1337272105
+      pjt,Skins2_21: -290066382
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
